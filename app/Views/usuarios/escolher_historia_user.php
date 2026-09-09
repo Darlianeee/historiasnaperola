@@ -91,10 +91,6 @@ $historias = array_fill(0, 12, [
                     </div>
 
 
-                    <!-- BOTÃO LER -->
-                    <a href="<?=URL?>/usuarios/historias_user" class="btn-ler">
-                        Ler história
-                    </a>
 
                 </div>
 
