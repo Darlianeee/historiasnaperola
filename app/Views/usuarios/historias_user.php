@@ -61,14 +61,6 @@ $texto_lenda = "XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
         <!-- SEÇÃO DE FEEDBACK DO USUÁRIO -->
         <form action="" method="POST" class="secao-comentario">
             <div class="titulo-comentario">O que você achou desta lenda?</div>
-            
-            <div class="rating-stars">
-                <input type="radio" id="star5" name="avaliacao" value="5"><label for="star5">★</label>
-                <input type="radio" id="star4" name="avaliacao" value="4"><label for="star4">★</label>
-                <input type="radio" id="star3" name="avaliacao" value="3"><label for="star3">★</label>
-                <input type="radio" id="star2" name="avaliacao" value="2"><label for="star2">★</label>
-                <input type="radio" id="star1" name="avaliacao" value="1"><label for="star1">★</label>
-            </div>
 
             <textarea name="comentario" class="area-texto-comentario" placeholder="Digite aqui seu comentário..."></textarea>
             
